@@ -1,6 +1,6 @@
 👋 Hello there! Welcome to my coding universe on GitHub! 🚀
 
-I'm Azizjon, a 21-year-old coding enthusiast currently exploring the wonders of Inha University in Korea 🎓. I'm on a mission to conquer the coding cosmos and I'm constantly honing my skills in various programming languages like Python 🐍, C++ 💻, and beyond! 💪
+I'm Azizjon, a 23-year-old coding enthusiast currently exploring the wonders of Inha University in Korea 🎓. I'm on a mission to conquer the coding cosmos and I'm constantly honing my skills in various programming languages like Python 🐍, C++ 💻, and beyond! 💪
 
 🔍 Venture into my GitHub repositories and discover the coding galaxies I've explored! 🌌 From crafting sleek and efficient scripts to launching complex applications, I'm always pushing the boundaries of coding creativity 💡.
 
